@@ -1,17 +1,16 @@
-Loja de auto peças
-Nome da empresa:Tio Miro auto peças
-integrantes do grupo:Tiago,Luigi,leonardo,Marvyn, luiz felipe
+Loja de Auto Peças
+Nome da empresa: Tio Miro Auto Peças
+Integrantes do grupo: Tiago, Luigi, Leonardo, Marvyn, Luiz Felipe.
 
-Levantamento de Requisitos – Loja de Autopeças Tio Miro
+Levantamento de Requisitos – Loja de Auto Peças Tio Miro.
 
 1. Descrição da empresa
-A Tio Miro é uma loja de autopeças voltada para atender motoristas, mecânicos e oficinas locais. A empresa busca oferecer peças com preços acessíveis e atendimento rápido.
-
+- A Tio Miro é uma loja de Auto Peças voltada para atender motoristas, mecânicos e oficinas locais. A empresa busca oferecer peças com preços acessíveis e atendimento rápido.
 
 2. Público-alvo
-- Motoristas que precisam de peças de reposição
-- Mecanicos que nessesitam de peças
-- Revendedores locais
+- Motoristas que precisam de peças de reposição.
+- Mecânicos que nessesitam de peças.
+- Revendedores locais.
 
 3. Objetivo do projeto
 Desenvolver um sistema que auxilie na gestão da loja, incluindo:
@@ -21,15 +20,15 @@ Desenvolver um sistema que auxilie na gestão da loja, incluindo:
 - Relatórios de desempenho e movimentação de estoque
 
 4. Requisitos funcionais
-- 1: Permitir cadastro, edição e exclusão de peças no estoque
-- 2: Registrar vendas e emitir comprovantes
-- 3: Gerar relatórios de estoque e vendas
-- 4: Disponibilizar catálogo de produtos para clientes
-- 5: Permitir busca de peças por nome, código ou categoria
+- Permitir cadastro, edição e exclusão de peças no estoque
+- Registrar vendas e emitir comprovantes
+- Gerar relatórios de estoque e vendas
+- Disponibilizar catálogo de produtos para clientes
+- Permitir busca de peças por nome, código ou categoria
 
 5. Requisitos não funcionais
-- 1: O sistema deve ser simples e de fácil utilização
-- 2: Deve estar disponível via web, acessível em computadores e dispositivos móveis
-- 3: Garantir a segurança dos dados cadastrados
-- 4: Sistema com tempo de resposta rápido e eficiente
+- Sistema deve ser simples e de fácil utilização.
+- Deve estar disponível via web, acessível em computadores e dispositivos móveis.
+- Garantir a segurança dos dados cadastrados.
+- Sistema com tempo de resposta rápido e eficiente.
 
